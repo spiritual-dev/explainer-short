@@ -1,0 +1,36 @@
+{
+  "name": "mono",
+  "description": "Near-black ground, white surfaces, one blue accent",
+  "colors": {
+    "bg": "#0B0B0D",
+    "bg_hi": "#141416",
+    "bg_lo": "#050505",
+    "ink": "#F4F4F5",
+    "mute": "#A1A1AA",
+    "surface": "#18181B",
+    "surface_2": "#27272A",
+    "accent": "#3B82F6",
+    "accent_2": "#A1A1AA",
+    "accent_3": "#22C55E",
+    "chip_bg": "rgba(244,244,245,0.92)",
+    "chip_fg": "#09090B",
+    "shadow": "rgba(0,0,0,0.55)"
+  },
+  "fonts": {
+    "sans": "Inter",
+    "mono": "JBM",
+    "sans_file": "fonts/InterVariable.woff2",
+    "mono_file": "fonts/JetBrainsMono-Regular.woff2"
+  },
+  "type": {
+    "headline_weight": 700,
+    "chip_size_px": 52,
+    "radius_card_px": 20,
+    "radius_chip_px": 12
+  },
+  "motion": {
+    "enter_s": 0.35,
+    "overshoot": 1.2,
+    "camera_push": 1.03
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "fix": {
+    "code": "Code",
+    "codex": "Codex"
+  },
+  "merge": [],
+  "keep": [
+    [
+      "Claude",
+      "Code"
+    ],
+    [
+      "agent",
+      "swarms"
+    ]
+  ],
+  "drop_first": "So"
+}

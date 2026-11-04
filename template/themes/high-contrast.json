@@ -1,0 +1,36 @@
+{
+  "name": "high-contrast",
+  "description": "Near-black ground, bright type, sharp yellow accent",
+  "colors": {
+    "bg": "#0A0A0A",
+    "bg_hi": "#171717",
+    "bg_lo": "#000000",
+    "ink": "#FAFAFA",
+    "mute": "#A3A3A3",
+    "surface": "#171717",
+    "surface_2": "#262626",
+    "accent": "#FACC15",
+    "accent_2": "#38BDF8",
+    "accent_3": "#4ADE80",
+    "chip_bg": "rgba(250,250,250,0.92)",
+    "chip_fg": "#0A0A0A",
+    "shadow": "rgba(0,0,0,0.55)"
+  },
+  "fonts": {
+    "sans": "Inter",
+    "mono": "JBM",
+    "sans_file": "fonts/InterVariable.woff2",
+    "mono_file": "fonts/JetBrainsMono-Regular.woff2"
+  },
+  "type": {
+    "headline_weight": 800,
+    "chip_size_px": 56,
+    "radius_card_px": 18,
+    "radius_chip_px": 10
+  },
+  "motion": {
+    "enter_s": 0.3,
+    "overshoot": 1.1,
+    "camera_push": 1.02
+  }
+}

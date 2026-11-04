@@ -1,0 +1,20 @@
+{
+  "name": "explainer-short",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Themeable vertical explainer short skill (portable HTML render)",
+  "type": "module",
+  "scripts": {
+    "render": "node scripts/render_sample.mjs",
+    "render:warm": "node scripts/render_sample.mjs warm",
+    "render:mono": "node scripts/render_sample.mjs mono",
+    "render:playful": "node scripts/render_sample.mjs playful",
+    "render:high-contrast": "node scripts/render_sample.mjs high-contrast"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "playwright-core": "1.48.2"
+  }
+}

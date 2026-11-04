@@ -1,0 +1,23 @@
+{
+  "src": "src/take.mov",
+  "fps": 30,
+  "crop": "crop=1080:960:0:0",
+  "segs": [
+    [
+      0.0,
+      4.0,
+      "hook: state the idea"
+    ],
+    [
+      4.0,
+      8.0,
+      "show it"
+    ],
+    [
+      8.0,
+      12.0,
+      "pay it off"
+    ]
+  ],
+  "note": "Replace with your own cut list from edit.py / your toolkit."
+}
