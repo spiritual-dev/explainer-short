@@ -1,0 +1,36 @@
+{
+  "name": "playful",
+  "description": "Soft pastels and rounder shapes",
+  "colors": {
+    "bg": "#FFF7ED",
+    "bg_hi": "#FFFBEB",
+    "bg_lo": "#FFEDD5",
+    "ink": "#3B0764",
+    "mute": "#7C3AED",
+    "surface": "#FFFFFF",
+    "surface_2": "#FDF4FF",
+    "accent": "#EC4899",
+    "accent_2": "#8B5CF6",
+    "accent_3": "#14B8A6",
+    "chip_bg": "rgba(59,7,100,0.85)",
+    "chip_fg": "#FFFFFF",
+    "shadow": "rgba(124,58,237,0.22)"
+  },
+  "fonts": {
+    "sans": "Inter",
+    "mono": "JBM",
+    "sans_file": "fonts/InterVariable.woff2",
+    "mono_file": "fonts/JetBrainsMono-Regular.woff2"
+  },
+  "type": {
+    "headline_weight": 800,
+    "chip_size_px": 54,
+    "radius_card_px": 40,
+    "radius_chip_px": 999
+  },
+  "motion": {
+    "enter_s": 0.5,
+    "overshoot": 1.9,
+    "camera_push": 1.05
+  }
+}
